@@ -1,0 +1,38 @@
+
+
+.left{
+    color: blue;
+    text-align: left;
+    width: 50%;
+    float: left;
+}
+.right{
+    color: blue;
+    text-align: right;
+    width: 50%;
+    float: right;
+}
+table{
+    border: 1;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+.bottom{
+
+    text-align: center;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+body{
+    width: 70%;
+    margin: auto;
+}
+#vang{
+    background-color: yellow;
+}
+#cam{
+    background-color: orange;
+}
